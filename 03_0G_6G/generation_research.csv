@@ -1,0 +1,8 @@
+Generation,Period,Technology,Features,Examples,Services,Transition_Problem
+0G,Pre-cellular era,Analog mobile radio / push-to-talk,"Early mobile radio, large equipment and limited channels","Vehicle radio, dispatch radio, early mobile radio",Voice communication and dispatch,Very limited capacity and no automated cellular architecture
+1G,1980s,Analog cellular,Analog voice and cellular frequency reuse,Early cellular phones,Mobile voice calls,"Poor security, limited capacity and low voice quality"
+2G,1990s,Digital cellular / GSM,"Digital voice, SMS and improved capacity","GSM phones, Nokia 3310","Voice, SMS and basic data",Limited data rates for Internet applications
+3G,2000s,UMTS / WCDMA,Higher mobile data rates and multimedia,3G smartphones,Mobile Internet and video calling,Capacity and data-rate limitations as mobile Internet grew
+4G,2010s,LTE / LTE-Advanced,High-speed packet communication and all-IP networking,4G LTE smartphones and routers,"Mobile broadband, streaming and Internet applications","Increasing demand for capacity, connected devices and lower latency"
+5G,2020s,5G NR,"High-speed broadband, massive IoT and low latency","5G smartphones, 5G routers and IoT devices","Enhanced mobile broadband, IoT and industrial applications","Future networks require greater capacity, intelligence and sensing"
+6G,Expected around 2030,IMT-2030 / emerging 6G,"AI-native networking, advanced connectivity and integrated sensing",Future intelligent communication systems,"Advanced sensing, immersive communication and intelligent networking",Still under research and standardization

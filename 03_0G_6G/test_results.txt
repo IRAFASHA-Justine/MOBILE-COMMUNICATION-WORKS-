@@ -1,0 +1,45 @@
+0G-6G GENERATION RECOMMENDER TEST RESULTS
+======================================================================
+
+Test 1
+Statement: This system used analog voice communication.
+Recommended Generation: 1G
+Confidence: Keyword-based
+Reason: Matched generation-specific keywords for 1G.
+
+Test 2
+Statement: SMS and digital voice became important services.
+Recommended Generation: 2G
+Confidence: Keyword-based
+Reason: Matched generation-specific keywords for 2G.
+
+Test 3
+Statement: Mobile Internet and video calling became available.
+Recommended Generation: 3G
+Confidence: Keyword-based
+Reason: Matched generation-specific keywords for 3G.
+
+Test 4
+Statement: LTE provides high-speed mobile broadband.
+Recommended Generation: 4G
+Confidence: Keyword-based
+Reason: Matched generation-specific keywords for 4G.
+
+Test 5
+Statement: 5G supports massive IoT and ultra-reliable low-latency communication.
+Recommended Generation: 5G
+Confidence: Keyword-based
+Reason: Matched generation-specific keywords for 5G.
+
+Test 6
+Statement: Future networks may use AI-native communication and integrated sensing.
+Recommended Generation: 6G
+Confidence: Keyword-based
+Reason: Matched generation-specific keywords for 6G.
+
+Test 7
+Statement: Mobile communication provides faster Internet.
+Recommended Generation: Ambiguous / Unknown
+Confidence: Low
+Reason: No generation-specific keyword was detected.
+
